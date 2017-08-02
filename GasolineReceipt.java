@@ -4,12 +4,12 @@ public class GasolineReceipt {
 		System.out.println("|                        |");
 		System.out.println("|      CORNER STORE      |");
 		System.out.println("|                        |");
-		System.out.println("| 2015-03-29  04:38pm    |");
+		System.out.println("| 2017-08-01  14:29pm    |");
 		System.out.println("|                        |");
 		System.out.println("| Gallons:       10.870  |");
-		System.out.println("| Price/gallon: $ 2.089  |");
+		System.out.println("| Price/gallon: $ 2.299  |");
 		System.out.println("|                        |");
-		System.out.println("| Fuel total:  $ 22.71   |");
+		System.out.println("| Fuel total:   $ 24.99  |");
 		System.out.println("|                        |");
 		System.out.println("+------------------------+");
 	}
